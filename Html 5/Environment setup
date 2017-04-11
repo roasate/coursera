@@ -1,0 +1,14 @@
+1) Git
+2) Chrome Developer tools
+3) Browser Sync(nodejs and npm)
+4) Sublime text 3
+
+
+
+Install all the above
+
+
+
+Browser sync
+
+			browser-sync start --server -directory --files "*"
