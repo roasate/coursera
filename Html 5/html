@@ -1,1 +1,24 @@
 !) include meta in ur head tag. 
+2) tags to remember
+		header
+		nav  
+		section
+		article
+		aside
+		footer
+
+
+		all are similar to div as they are all block elements 
+
+
+
+3) list
+		li comes inside ul(unordered) tag or ol tag(ordered)
+4) entity set
+		< = &lt;
+		> = &gt;
+		& = &amp;
+		copyright symbol = &copy;
+		non breaking space = &nbsp;
+		quotes in html characterset = &quot;
+	these are the replacements to be used as these symbols are a part of the normal html tags	
