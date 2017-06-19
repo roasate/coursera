@@ -45,6 +45,7 @@ body {
 	padding-right: 0%;
 	margin: 1%;
 	border: solid;
+	border-width: 1px;
 	width: 31%;
 	background-color: #989898;
 
@@ -64,6 +65,7 @@ body {
 	font-weight: bold;
 	border-left:solid;
 	border-bottom: solid;
+	border-width: 1px;
 
 }
 }
